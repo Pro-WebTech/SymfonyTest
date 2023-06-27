@@ -34,10 +34,3 @@ The app provides the following features:
 
 To use the app, simply navigate to the appropriate page using your web browser. From there, you can perform the desired action.
 
-## Contributing
-
-If you'd like to contribute to the app, feel free to submit a pull request with your changes. We welcome contributions from anyone who is interested in improving the app.
-
-## License
-
-This app is licensed under the MIT License. See the LICENSE file for more information.
