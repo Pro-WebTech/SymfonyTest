@@ -14,8 +14,7 @@ git clone https://github.com/TechAriSet/SymfonyTest.git
 ```bash
 composer install
 ```
-3. Set up your database configuration in the `.env` file. 
-4. Run database migrations to create the necessary tables in your database.
+3. Run database migrations to create the necessary tables in your database.
 ```bash
 php bin/console doctrine:migrations:migrate
 symfony server:start
